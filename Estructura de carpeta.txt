@@ -1,0 +1,1 @@
+cuando armamos/maquetamos un sitio web debemos siempretener una estructura de carpetas diferenciando tipos de archivos.
